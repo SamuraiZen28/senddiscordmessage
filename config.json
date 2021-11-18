@@ -1,0 +1,4 @@
+{
+  "token" : "put-your-bot-token-here",
+  "prefix": "!" //you can change this to whatever you want
+}
